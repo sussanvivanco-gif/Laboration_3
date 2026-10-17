@@ -83,7 +83,9 @@ nav ul {
 /*UPPLEV NORRGLÄNTAN*/
 .upplev{
     position: relative;
-    text-align: center;   
+    text-align: center;  
+    background-color: rgb(240, 239, 227);
+    padding: 2%;
 }
 
 .vandra img{ 
