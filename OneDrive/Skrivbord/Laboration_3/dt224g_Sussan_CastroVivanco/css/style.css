@@ -75,17 +75,7 @@ nav ul {
 /*NATUR TEXT*/
 
 .naturtext{
-img {
-    display: block;
-}
-
-p {
-    clear: both;
-}
-    position: absolute;
-    /*display: flex;
-    flex-direction: row;
+    text-align: center;
     background-color: rgb(240, 237, 205);
-    padding: 2%;*/
-
+    padding: 2%;
 }
