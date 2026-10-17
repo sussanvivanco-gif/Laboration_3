@@ -46,8 +46,6 @@ nav ul {
 /* SECTION HERO*/
  .hero {
     position: absolute;
-    /*display: block;
-    display: auto;*/
     color:rgb(244, 247, 232);
     margin: 0;
  }
@@ -68,7 +66,18 @@ nav ul {
 .htext {
     position: absolute;
     top: 50px;
-    right: 20px;
-   
-    
+    right: 20px;    
+}
+
+/*NATUR TEXT*/
+
+.naturtext{
+    display: flex;
+    flex-wrap: nowrap;
+    /*position: absolute;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(240, 237, 205);
+    padding: 2%;*/
+
 }
