@@ -4,7 +4,7 @@ body {
 
 /* HEADER*/
 header {
-    background-color: rgb(178, 236, 178);
+    background-color: rgb(240, 237, 205);
 }
 
 .header-wrapper {
@@ -30,3 +30,14 @@ header {
     font-size: 1.6em;
 }
 
+/*NAV*/
+nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
+ nav ul li a{
+    color: black;
+    text-decoration: underline;
+    font-size: 1.2em;
+ }
