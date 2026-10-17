@@ -79,3 +79,27 @@ nav ul {
     background-color: rgb(240, 237, 205);
     padding: 2%;
 }
+
+/*UPPLEV NORRGLÄNTAN*/
+.upplev{
+    text-align: center;   
+}
+
+.vandra img{ 
+/* clip-path: circle(); */
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.paddla img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.upptack img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
