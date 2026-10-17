@@ -82,6 +82,7 @@ nav ul {
 
 /*UPPLEV NORRGLÄNTAN*/
 .upplev{
+    position: relative;
     text-align: center;   
 }
 
