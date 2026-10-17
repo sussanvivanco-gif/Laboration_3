@@ -43,7 +43,13 @@ nav ul {
  }
 
 /* SECTION HERO*/
- .container {
-    display: flex;
-    background-image: image(src="images/hero.jpg");
+ .hero {
+    color:blueviolet;
+    margin: 0 ;
+    background-image: url("images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    padding: 50px;
  }
