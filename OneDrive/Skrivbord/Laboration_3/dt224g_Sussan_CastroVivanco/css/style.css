@@ -56,7 +56,6 @@ nav ul {
     position: relative;
     width: 1375px;
     height: 400px;
-    /*opacity: 0.5;*/
     background-image: url("./images/hero.jpg");
  }
 
@@ -68,8 +67,8 @@ nav ul {
 
 .htext {
     position: absolute;
-    position-anchor: --hero-anchor;
-    position-area: right center;
-     background-image: url("./images/hero.jpg");
+    top: 50px;
+    right: 20px;
+   
     
 }
