@@ -41,3 +41,9 @@ nav ul {
     text-decoration: underline;
     font-size: 1.2em;
  }
+
+/* SECTION HERO*/
+ .container {
+    display: flex;
+    background-image: image(src="images/hero.jpg");
+ }
