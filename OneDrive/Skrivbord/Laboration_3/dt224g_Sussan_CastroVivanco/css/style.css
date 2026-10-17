@@ -1,0 +1,32 @@
+body {
+    margin:0;
+}
+
+/* HEADER*/
+header {
+    background-color: rgb(178, 236, 178);
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+/* LOGGAN*/
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img {
+    max-width: 80px;
+}
+
+.logo span{
+    color: white;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
